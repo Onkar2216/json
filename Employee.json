@@ -1,0 +1,20 @@
+{
+	"Employee":	[
+					{
+						"Onkar":
+								{
+									"Post":"Software Developer",
+									"Name":"Onkar",
+									"Location":"Saswad"
+								}
+					},
+					{
+						"Suhas":
+								{
+									"Post":"java Developer",
+									"Name":"Suhas",
+									"Location":"baner"
+								}
+					}
+				]
+}

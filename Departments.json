@@ -1,0 +1,47 @@
+{
+	"Department":
+				[
+					{
+						"Software":
+									[
+										{
+											"Onkar":
+													{
+														"Post":"Java Developer",
+														"Name":"Onkar Balasaheb Nimbalkar",
+														"Location":"KarveNagar"
+													}
+										},
+										{
+											"Suhas":
+													{
+														"Post":"Java Developer",
+														"Name":"Suhas bhanudas bhame",
+														"Location":"Bhavdhan"
+													}
+										}
+									]
+					},
+					{
+						"Web":
+								[
+									{	
+										"Amar":
+												{
+													"Post":"Android Developer",
+													"Name":"Amar Babadev Kargal",
+													"Location":"Baner"
+												}
+									},
+									{
+										"Mayuresh":
+													{
+														"Post":"Web Developer",
+														"Name":"Mayuresh Dattatray Anturkar",
+														"Location":"Viman Nagar"
+													}
+									}
+								]
+					}
+				]
+}
